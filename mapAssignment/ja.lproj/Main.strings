@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Desc"; ObjectID = "0HG-0R-nmB"; */
+"0HG-0R-nmB.text" = "デスクリプション";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "TBj-TZ-pZH"; */
+"TBj-TZ-pZH.normalTitle" = "もどり";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "tYg-dZ-Hu0"; */
+"tYg-dZ-Hu0.text" = "名前";
